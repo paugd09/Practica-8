@@ -12,5 +12,10 @@
 #include "GPIO.h"
 #include "PLL_CONFIG.h"
 #include "SysTick_Init.h"
+#include "OLED.h"
+#include "SSD1306_OLED.c"
+#include "l2C3.c"
+#include "ADC.C"
+#include "PLL.c"
 
 #endif /* INCLUDE_H_ */
