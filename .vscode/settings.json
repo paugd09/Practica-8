@@ -5,6 +5,7 @@
         "stdint.h": "c",
         "include.h": "c",
         "tm4c1294ncpdt.h": "c",
-        "core_cm4.h": "c"
+        "core_cm4.h": "c",
+        "PLL.C": "cpp"
     }
 }
